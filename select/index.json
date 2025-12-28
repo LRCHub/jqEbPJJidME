@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Zoetrope",
+  "base_artist": "yanaginagi",
+  "createdAt": "2025-12-28T09:46:52.356598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Zoetrope (PV)",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/01_Zoetrope_(PV)_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Zoetrope",
+      "artist": "Nagi Yanagi",
+      "has_synced": true,
+      "path": "select/02_Zoetrope_Nagi_Yanagi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Zoetrope",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/03_Zoetrope_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zoetrope",
+      "artist": "yanaginagi",
+      "has_synced": false,
+      "path": "select/04_Zoetrope_yanaginagi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zoetrope",
+      "artist": "yanaginagi",
+      "has_synced": false,
+      "path": "select/05_Zoetrope_yanaginagi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Zoetrope",
+      "artist": "The Real Zebos",
+      "has_synced": true,
+      "path": "select/06_Zoetrope_The_Real_Zebos.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Zoetrope (Nagi Yanagi cover)",
+      "artist": "PelleK",
+      "has_synced": false,
+      "path": "select/07_Zoetrope_(Nagi_Yanagi_cover)_PelleK.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Zoetrope",
+      "artist": "PelleK",
+      "has_synced": false,
+      "path": "select/08_Zoetrope_PelleK.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Zoetrope",
+      "artist": "UROBOROS",
+      "has_synced": false,
+      "path": "select/09_Zoetrope_UROBOROS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Zoetrope",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/10_Zoetrope_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Zoetrope (Amnesia OP)",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/11_Zoetrope_(Amnesia_OP)_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Zoetrope",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/12_Zoetrope_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Zoetrope",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/13_Zoetrope_yanaginagi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Zoetrope",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_Zoetrope_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Zoetrope",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_02_Zoetrope_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Zoetrope",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_03_Zoetrope_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Zoetrope",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_04_Zoetrope_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Zoetrope",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_05_Zoetrope_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Zoetrope",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_06_Zoetrope_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Zoetrope",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_07_Zoetrope_やなぎなぎ.txt"
+    }
+  ]
+}
